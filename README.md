@@ -34,7 +34,7 @@ Aqui estão alguns dos meus projetos públicos:
 ---
 
 ## 🌱 **Atualmente aprendendo**
-- Solidificação e aprofundamento em Java.
+- Solidificação do conhecimento em **Java**
 - Técnicas avançadas de **HTML**, **CSS**, e **JavaScript**
 - Exploração do framework **Angular** para desenvolvimento frontend moderno
 - Integração entre Frontend e Backend para projetos FullStack
@@ -45,6 +45,21 @@ Aqui estão alguns dos meus projetos públicos:
 ## 📞 **Entre em contato comigo**
 - **LinkedIn:** [João Ricci Developer](https://www.linkedin.com/in/joaoriccideveloper/)
 - **GitHub:** [ricciDeveloper](https://github.com/ricciDeveloper)
+
+---
+
+## 🔧 **Stacks Utilizadas**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+</div>
 
 ---
 
