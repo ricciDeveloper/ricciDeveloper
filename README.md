@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Ricci</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70707&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Jo%C3%A3o+Ricci!)](https://git.io/typing-svg)
 
 ###
 
@@ -53,8 +53,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
