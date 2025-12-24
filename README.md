@@ -1,66 +1,60 @@
-# 👋 Olá! Bem-vindo ao meu GitHub!
+<h2 align="left">Hi 👋! My name is João Ricci</h2>
 
-Sou **João Ricci**, desenvolvedor Backend com foco em **Java**. Tenho paixão por criar soluções eficientes, utilizando boas práticas de programação e explorando tecnologias modernas. Aqui, você encontrará projetos que refletem minha jornada no desenvolvimento de software e meu compromisso com aprendizado contínuo.
+###
 
----
+<br clear="both">
 
-## 🛠️ **Tecnologias & Ferramentas**
-- **Linguagens:** Java, SQL, HTML, CSS, JavaScript
-- **Frameworks Backend:** Spring Boot, Spring Security
-- **Frameworks Frontend:** Pretendo iniciar estudos com Angular
-- **Banco de Dados:** MySQL, H2
-- **Ferramentas:** Maven, JUnit, Swagger, Git, GitHub
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTduNzYweDNmajFqMmF4NzQydzBrZGF2ZXh1eHJ2NzZxdmlzbWRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 
----
+###
 
-## 🚀 **Habilidades em Destaque**
-- Desenvolvimento de APIs REST com **Spring Boot**
-- Integração com bancos de dados utilizando **Spring Data JPA**
-- Implementação de autenticação e segurança com **JWT** e **Spring Security**
-- Conhecimento sólido em **Orientação a Objetos**
-- Testes unitários com **JUnit** e mocks com **Mockito**
-- Construção de interfaces web utilizando **HTML**, **CSS**, e **JavaScript**
+<p align="left">I work as an SEO Technician with a strong background in Web Development and API design and consumption. I hold a degree in Systems Analysis and Development, which gives me a solid foundation in software architecture, problem-solving, and scalable solutions.<br><br>My technical stack includes modern web technologies such as JavaScript, TypeScript, React, HTML5, CSS3, Python, Java, Spring Boot, and relational databases like MySQL. I focus on building clean, efficient, and maintainable applications, following best practices in performance, accessibility, and code organization.<br><br>In addition to custom development, I also work extensively with CMS and e-commerce platforms, including Shopify, WordPress, BigCommerce, and Tray, customizing themes, optimizing SEO, integrating APIs, and improving conversion-oriented user experiences.<br><br>I combine SEO strategy with development skills to deliver solutions that are not only technically sound, but also optimized for search engines and real business results.</p>
 
----
+###
 
-## 📚 **Projetos em Destaque**
-Aqui estão alguns dos meus projetos públicos:
-
-- 🎯 **[Santander2024APIRest](https://github.com/ricciDeveloper/Santander2024APIRest.git):** API REST desenvolvida durante o Bootcamp Santander 2024.  
-- 🏛️ **[CadastroProdutos-Java](https://github.com/ricciDeveloper/CadastroProdutos-Java):** Sistema de gerenciamento de produtos utilizando banco H2.  
-- 🎮 **[DetonaRalph-GameWeb](https://github.com/ricciDeveloper/DetonaRalph-GameWeb):** Um jogo web inspirado no universo de Detona Ralph.  
-- 🌐 **[LandingPage-Dio](https://github.com/ricciDeveloper/LandingPage-Dio):** Uma landing page simples e responsiva criada para estudo.  
-
----
-
-## 🌱 **Atualmente aprendendo**
-- Solidificação do conhecimento em **Java**
-- Técnicas avançadas de **HTML**, **CSS**, e **JavaScript**
-- Exploração do framework **Angular** para desenvolvimento frontend moderno
-- Integração entre Frontend e Backend para projetos FullStack
-
-
----
-
-## 📞 **Entre em contato comigo**
-- **LinkedIn:** [João Ricci Developer](https://www.linkedin.com/in/joaoriccideveloper/)
-- **GitHub:** [ricciDeveloper](https://github.com/ricciDeveloper)
-
----
-
-## 🔧 **Stacks Utilizadas**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+<div align="left">
+  <a href="https://www.instagram.com/joaoriccidev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/jaoz1nn44" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href=":joaovictor.ricci1999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/joaoriccideveloper/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
----
+###
 
-✨ **Obrigado por visitar meu perfil!** Espero que meus projetos possam inspirar ou ajudar de alguma forma. Sinta-se à vontade para explorar, dar feedback ou entrar em contato. 🚀
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/snake.svg" alt="Snake animation" />
+
+###
