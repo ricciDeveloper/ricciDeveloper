@@ -1,56 +1,140 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70707&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Jo%C3%A3o+Ricci!)](https://git.io/typing-svg)
+<div align="center">
 
-###
+# Hi 👋 I'm João Ricci
 
-<br clear="both">
+### Backend Developer • Technical SEO • Full Stack
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTduNzYweDNmajFqMmF4NzQydzBrZGF2ZXh1eHJ2NzZxdmlzbWRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Technical+SEO+Specialist;Java+%7C+Spring+Boot+%7C+JavaScript;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-###
-
-<p align="left">I work as an SEO Technician with a strong background in Web Development and API design and consumption. I hold a degree in Systems Analysis and Development, which gives me a solid foundation in software architecture, problem-solving, and scalable solutions.<br><br>My technical stack includes modern web technologies such as JavaScript, TypeScript, React, HTML5, CSS3, Python, Java, Spring Boot, and relational databases like MySQL. I focus on building clean, efficient, and maintainable applications, following best practices in performance, accessibility, and code organization.<br><br>In addition to custom development, I also work extensively with CMS and e-commerce platforms, including Shopify, WordPress, BigCommerce, and Tray, customizing themes, optimizing SEO, integrating APIs, and improving conversion-oriented user experiences.<br><br>I combine SEO strategy with development skills to deliver solutions that are not only technically sound, but also optimized for search engines and real business results.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/joaoriccidev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/jaoz1nn44" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href=":joaovictor.ricci1999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joaoriccideveloper/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+## 👨🏻‍💻 About Me
+
+I'm a **Backend Developer** and **Technical SEO Specialist** passionate about building scalable applications, APIs, automation tools, and high-performance websites.
+
+🎓 Bachelor's Degree in **Systems Analysis and Development**
+
+💼 Technical SEO | Web Development
+
+☕ Backend with **Java & Spring Boot**
+
+🌐 Front-end with **JavaScript, TypeScript & React**
+
+🛒 Experience with **Shopify, WordPress, BigCommerce and Tray**
+
+📈 Focused on performance, clean architecture, SEO, accessibility, and scalable solutions.
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,python,mysql,docker,git,github,wordpress&theme=dark"/>
+
 </div>
 
-###
+---
 
-###
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricciDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricciDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ricciDeveloper&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricciDeveloper&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Pacman Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ricciDeveloper/ricciDeveloper/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ricciDeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔄 **DE x PARA Automation** | URL mapping automation using AI |
+| 🌦 **Weather API** | Weather dashboard consuming external APIs |
+| 🐶 **PetShop SaaS** | ERP focused on Pet Shops |
+| 💼 **Portfolio** | Portfolio built with React consuming GitHub API |
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaoriccideveloper/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:joaovictor.ricci1999@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/joaoriccidev/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.twitch.tv/jaoz1nn44" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ricciDeveloper&style=for-the-badge&color=3b82f6)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
