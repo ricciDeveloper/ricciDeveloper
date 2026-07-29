@@ -58,15 +58,6 @@ I'm a **Backend Developer** and **Technical SEO Specialist** passionate about bu
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricciDeveloper&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -78,15 +69,7 @@ I'm a **Backend Developer** and **Technical SEO Specialist** passionate about bu
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ricciDeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
 
 ---
 
